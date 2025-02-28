@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Most used tech:</h2>
+<h3 align="left">Most used tech:</h3>
 
 ###
 
